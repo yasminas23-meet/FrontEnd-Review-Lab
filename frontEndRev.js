@@ -1,3 +1,6 @@
 function changebgcolor() {
-	document.getElementsByTagName(body)
+	//var change = document.getElementsByTagName("body");
+	//change.style.backgroundColor = "pink";
+	document.body.style.backgroundColor =
+                                "lightgreen";
 }
